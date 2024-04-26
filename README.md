@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jackson Wu</h1>
 <h3 align="center">A recent graduate from the University of Florida</h3>
 
-- 🔭 I’m currently working on [leetcode_extension](https://github.com/wurew34/leetcode_extension)
+- 🔭 I’m currently working on [Fightdle](https://github.com/wurew34/Fightdle)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
